@@ -234,9 +234,10 @@ section {
     color: white;
   }
  
-  .contact-info iframe {
+  .contact-info {
     width: 400px;
     height: 400px;
+    text-align: left
   }
 
   .contact-info h3 {
