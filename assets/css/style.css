@@ -217,6 +217,7 @@ section {
   }
 
   /* REACH OUT STYLES START */
+  
   .contact {
     text-align: center;
     background: #024e76;
@@ -225,7 +226,13 @@ section {
   .contact h2 {
     color: #fce138;
   }
-  .contact-info div {
+
+  .contact-info iframe {
+    width: 400px;
+    height: 400px;
+  }
+
+  .contact-info div{
     width: 410px;
     display: inline-block;
     vertical-align: top;
@@ -234,11 +241,7 @@ section {
     color: white;
   }
  
-  .contact-info {
-    width: 400px;
-    height: 400px;
-    text-align: left
-  }
+ 
 
   .contact-info h3 {
     color: #fce138;
